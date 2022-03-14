@@ -1,2 +1,1 @@
-c = input()
-print(c)
+print('print(\"Hello\\nWorld\")')
